@@ -6,9 +6,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "server": "json-server server/pizzas.json",
-    "simple": "json-server simple/simple.json",
-    "build": "webpack -w",
-    "start": "json-server server/pizzas.json & webpack -w"
+    "build": "webpack",
+    "start": "json-server server/pizzas.json & webpack"
   },
   "keywords": [],
   "author": "Rob Lopez",
