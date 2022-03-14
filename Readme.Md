@@ -6,3 +6,5 @@ Refer to `public/simpleMockup.html` for an example.
 
 Run react with `npm run build`
 Run both packages with `npm start`
+
+Note there is a simple server run with JSON-server
