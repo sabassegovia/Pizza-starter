@@ -5,9 +5,9 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "server": "json-server server/pizzas.json",
+    "server": "json-server server/pizza.json",
     "build": "webpack",
-    "start": "json-server server/pizzas.json & webpack"
+    "start": "json-server server/pizza.json & webpack"
   },
   "keywords": [],
   "author": "Rob Lopez",
